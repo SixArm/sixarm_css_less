@@ -5,7 +5,7 @@
 #  - npm
 #  - less.js
 #
-# The scripts to install node and npm are in the repo sixarm_node_notes
+# The scripts to install node and npm are in the repo sixarm_node_js
 
 node_ante
 cd /opt
